@@ -1,0 +1,16 @@
+parent{border: 0cap;
+    cursor: pointer;
+    border-color:rgb(34, 33, 33)  ;  
+    border-width: 50px;  
+    height: 20px;
+}
+navbar{height: 30px;width: fit-content;
+    min-height: 300px;
+    max-width: 600px;
+    margin: 12px auto;
+    border: 5px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;}
